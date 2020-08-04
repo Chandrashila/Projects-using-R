@@ -1,0 +1,16 @@
+The Betty Kent, the manager of the Wallace Realtors office in Vernon, CT, is interested in
+comparing Wallace’s performance to its main competitor: Sentinel Real Estate Services (SRES). In an
+industry report, she read that the difference between average asking-price and selling-price of houses is
+$6,000 in similar regions across the state. She would like to know if that holds true for Wallace and
+(separately) for SRES. She would also like to know whether asking-prices of houses brokered by Wallace
+are generally less than asking-prices of houses brokered by SRES; and whether selling-prices for houses
+brokered by Wallace are generally greater than selling-prices for houses brokered by SRES. Since asking
+and selling prices of houses are public information, it was easy for Betty to collect a sample of 79 house
+sales in the last three months. The dataset is in the Excel file entitled “WallaceRealtorsFull.xlsx”. 
+
+This dataset contains the following variables:
+1.Sale Number: An index/identifier to refer to each of the house sales.
+2.Asking Price: Asking price of a house (in dollars).
+3.Selling Type: Selling price of a house (in dollars).
+4.Company: Company that brokered the sale (Wallace or SRES).
+5.House Type: Type of house from townhouse, condo, or single family. 

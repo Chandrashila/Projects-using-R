@@ -1,0 +1,1 @@
+Utility company wants to predict its workforce for next 2 years. Using Time series analysis I have tried to build models to predict manpower with 82% accuracy.

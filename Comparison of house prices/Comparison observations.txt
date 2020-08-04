@@ -1,0 +1,22 @@
+While commenting on the sample:
+The industry report suggests that the average difference in the selling and asking price is of $6000.
+
+From the above observations we see that the average price difference for both the SRES and Wallace sample is not exactly the same.
+
+While commenting on Population based on sample size of 79 we conclude the following:
+They are approximately $6000 , but since this is a sample we can calculate the Confidence interval to see if the report will hold true , for the population.
+
+On finding the confidence interval, say for 95%, the range is between 5678.875  and 9765.569 for SRES and 
+3121.239 and 7598.761 for Wallace hence contain the population mean as per the report in this interval
+
+Hence, the industry report does hold true for both Wallace and SRES. 
+
+We can comments on Benty’s concerns as follows:
+1)	The Asking Price of ‘Wallace’ is generally lesser than ‘SRES’
+2)	The Selling Price of ‘Wallace’ is also generally lesser than ‘SRES’.
+
+The interesting observations that we can derive from the tables created are:
+
+1)	The ‘Condo Apartments’ sold by SRES and ‘Single Family Detached’ houses sold by Wallace are of the same proportion. 
+2)	Similarly, the ‘’Condo Apartments sold by Wallace and ‘Townhouses’ sold by SRES are of the same proportion. 
+3)	One-tenth of the total ‘Townhouses’ sold is by Wallace .

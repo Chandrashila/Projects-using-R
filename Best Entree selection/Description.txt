@@ -1,0 +1,22 @@
+ The Eastern Café has three very popular dishes: Yang Chow fried rice, pan fried noodles, and
+General Tso’s chicken. The owner of the restaurant would like to better understand the process of order
+arrival and delivery during the peak hour from 5 p.m. to 6 p.m. To do so, she has collected a data set
+concerning orders placed during that time period in the last 120 days. The data set can be found in the
+Excel file named “EasternCafe.xlsx”. 
+The data set contains six variables:
+1.Order #: An index to refer to the orders.
+2.Day: Day on which the order was placed (takes values from 1 to 120).
+3.Y: Whether the order included a Yang Chow fried rice dish (Yes or No).
+4.N: Whether the order included a pan fried noodles dish (Yes or No).
+5.T: Whether the order included a General Tso’s chicken dish (Yes or No).
+6.Time: Delivery time of the order in minutes.
+To help the owner, we perform statistical analysis using R Studio to answer following questions:
+
+a) Delivery time will exceed 20 minutes.
+b) Delivery time will be below 10 minutes.
+c) 90% of the delivery times will be under how many minutes?
+d) 90% of the delivery times will be above how many minutes? 
+e) Can we recommend dish (main course+ side dish) combinations to customers depending on the combination probabilities of orders?
+f) Given that 20 orders were placed, can we predict fewer than half of those orders will contain the chicken dish.
+g) Can we predict 90% of the days there will be fewer than how many orders?
+

@@ -1,0 +1,7 @@
+Tracy Birge is planning to buy a new car of certain particular model that she likes, but she is concerned about the expected maintenance cost through the time she will keep the car.
+Being a very analytical person, Tracy would like to assess this cost before purchasing the car. At this point, she is not sure how long she will keep the car if she buys it, 
+so that she will compute an estimate based on general data collected from other car owners. Tracy obtained sampling data from the Automobile Association concerning the time 
+a first owner keeps a car before is sold and the maintenance cost per mile of the particular car she plans to buy. The dataset can be found in the Excel file entitled “Tracy.xlsx”.
+The miles driven per year will depend on whether she gets a new job at a location that is farther away than the location of her current job. She believes that the miles driven per
+year will be 9,000 if she stays with her current job and it will be 12,000 if she gets the new job. The chances of her getting the new job are 40%. 
+To help Tracy, we use R studio to determine if Tracy should buy a new car of the model she likes.

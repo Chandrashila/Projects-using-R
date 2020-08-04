@@ -1,0 +1,4 @@
+The IRS uses regression models to predict what taxes are typically owed based on a small set of variables from tax returns. The predicted values are compared to the actual tax 
+paid by an individual to determine how truthful the individual’s return is and decide whether to audit the individual. This way the IRS can develop simple rules 
+to automatically determine if a given tax return should be fully audited. To develop one of such models, we use dataset entitled “Taxes.xlsx”. Using R Studio we built 
+a regression model to determine suspicious tax returns.
